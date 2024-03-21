@@ -1,0 +1,15 @@
+#tinyPacButton {
+    -fx-font-family: 'Arial Rounded MT Bold';
+    -fx-font-size: 25;
+    -fx-background-color: transparent;
+    -fx-background-radius: 10px;
+    -fx-border-color: white;
+    -fx-border-radius: 10px;
+    -fx-border-width: 2px;
+}
+
+#tinyPacGraphicButton {
+    -fx-background-color: transparent;
+    -fx-background-radius: 10px;
+}
+
